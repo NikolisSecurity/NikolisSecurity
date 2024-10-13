@@ -47,8 +47,8 @@
 ### 📫 **Connect with Me**
 
 <p align="center">
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" style="border-radius: 15px;" /></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" style="border-radius: 15px;" /></a>
+  <a href="https://github.com/NikolisSecurity"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" style="border-radius: 15px;" /></a>
+  <a href="https://discord.com/users/nikolis32.v4"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord" alt="Discord" style="border-radius: 15px;" /></a>
 </p>
 
 ---
