@@ -2,15 +2,15 @@
 <h3 align="center">Web Developer | Ethical Hacker | Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge" alt="HTML" />
-  <img src="https://img.shields.io/badge/Code-CSS-blue?style=for-the-badge" alt="CSS" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Code-Python-green?style=for-the-badge" alt="Python" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Database-SQLite3-lightgrey?style=for-the-badge" alt="SQLite3" />
-  <img src="https://img.shields.io/badge/Scripting-Bash-darkgreen?style=for-the-badge" alt="Bash" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Ethical_Hacking-red?style=for-the-badge" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge" alt="HTML" style="border-radius: 15px;" />
+  <img src="https://img.shields.io/badge/Code-CSS-blue?style=for-the-badge" alt="CSS" style="border-radius: 15px;" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge" alt="JavaScript" style="border-radius: 15px;" />
+  <img src="https://img.shields.io/badge/Code-Python-green?style=for-the-badge" alt="Python" style="border-radius: 15px;" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge" alt="MongoDB" style="border-radius: 15px;" />
+  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge" alt="MySQL" style="border-radius: 15px;" />
+  <img src="https://img.shields.io/badge/Database-SQLite3-lightgrey?style=for-the-badge" alt="SQLite3" style="border-radius: 15px;" />
+  <img src="https://img.shields.io/badge/Scripting-Bash-darkgreen?style=for-the-badge" alt="Bash" style="border-radius: 15px;" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Ethical_Hacking-red?style=for-the-badge" alt="Cybersecurity" style="border-radius: 15px;" />
 </p>
 
 ---
@@ -47,8 +47,8 @@
 ### 📫 **Connect with Me**
 
 <p align="center">
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" style="border-radius: 15px;" /></a>
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" style="border-radius: 15px;" /></a>
 </p>
 
 ---
