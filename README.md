@@ -20,9 +20,9 @@
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Python (Flask)
 - **Databases:** MongoDB, MySQL, SQLite3
-- **Scripting:** Bash
+- **Scripting:** Bash, PowerShell, C++
 - **Cybersecurity:** Ethical Hacking, CTF Challenges, Vulnerability Scanning
-- **Tools:** XAMPP, Docker, VS Code
+- **Tools:** XAMPP, Docker, WSL
 
 ---
 
