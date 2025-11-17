@@ -54,5 +54,6 @@
 ---
 
 Feel free to reach out if you'd like to collaborate on exciting projects!
-Check out the Latest PhantomID: github.com/NikolisSecurity/PhantomID
+
+Check out the Latest <a href="github.com/NikolisSecurity/PhantomID">PhantomID</a>!!!
 
